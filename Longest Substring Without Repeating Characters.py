@@ -35,6 +35,6 @@ def lengthOfLongestSubstring(s):
     return ans
 
 
-s = "au"
+s = "dvdf"
 yo = lengthOfLongestSubstring(s)
 print(yo)
